@@ -1,0 +1,43 @@
+{
+  "TypeofRice": [
+    {
+      "name": "BrownRice",
+      "weight": 5,
+      "price": 150
+    },
+    {
+      "name": "Basmati",
+      "weight": 3,
+      "price": 250
+
+    }
+
+  ],
+  "TypeofPulses": [
+    {
+      "name": "GreenGram",
+      "weight": 8,
+      "price": 100
+    },
+    {
+
+      "name": "HorseGram",
+      "weight": 5,
+      "price": 80
+
+    }
+  ],
+  "TypeofWheat": [
+    {
+      "name": "Bajara",
+      "weight": 2,
+      "price": 44
+
+    },
+    {
+      "name": "jowar",
+      "weight": 5,
+      "price": 90
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\bin\Debug\net6.0\InventaryDataManagementProgram.exe
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\bin\Debug\net6.0\InventaryDataManagementProgram.deps.json
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\bin\Debug\net6.0\InventaryDataManagementProgram.runtimeconfig.json
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\bin\Debug\net6.0\InventaryDataManagementProgram.dll
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\bin\Debug\net6.0\InventaryDataManagementProgram.pdb
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.AssemblyInfo.cs
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.csproj.CopyComplete
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.dll
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\refint\InventaryDataManagementProgram.dll
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.pdb
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\InventaryDataManagementProgram.genruntimeconfig.cache
+C:\Users\Dell\source\repos\InventaryDataManagementProgram\InventaryDataManagementProgram\obj\Debug\net6.0\ref\InventaryDataManagementProgram.dll
